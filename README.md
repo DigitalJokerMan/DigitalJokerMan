@@ -1,8 +1,10 @@
-# Hi, I'm DJ
+# Wassup 👋
 
-[I shitpost on Twitter.](https://twitter.com/compressedvore)  
+I'm Alex, and this is my MySpace page. (queue the really shitty fonts, colors, and a low quality version of some P!ATD song)
 
-[You'll find some of my work at cmpy.](https://github.com/cmpycc)
+[You'll find some of my work at cmpy.](https://github.com/cmpycc)  
+
+[I also shitpost on Twitter.](https://twitter.com/compressedvore)  
 
 ## I'm pretty good at computer.
 
